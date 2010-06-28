@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3134
+
+Adds RVM (Ruby Version Manager http://rvm.beginrescueend.com/) integration to Vim.
+
+Currently that is a function for adding the active Ruby to the status line.
+
+Latest and greatest is on github, also that is the place to report issues http://github.com/csexton/rvm.vim
